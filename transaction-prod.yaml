@@ -1,0 +1,12 @@
+# Configuration
+build:
+    version: "1.0"
+
+transactions:
+    message: "Welcome to MyBank transactions related REST APIs - PROD"
+    contactDetails:
+        name: "Mahesh Patil"
+        email: "mahesh.patil@msedcl.in"
+    onCallSupport:
+        - 99887766
+        - 44556677

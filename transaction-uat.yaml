@@ -1,0 +1,12 @@
+# Configuration
+build:
+    version: "1.0"
+
+transactions:
+    message: "Welcome to MyBank transactions related REST APIs - UAT"
+    contactDetails:
+        name: "Laxman Jadhav"
+        email: "laxman.jadhav@msedcl.in"
+    onCallSupport:
+        - 123123123
+        - 4443332221
