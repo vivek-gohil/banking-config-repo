@@ -5,8 +5,8 @@ build:
 account:
     message: "Welcome to MyBank Account related REST APIs - DEFAULT"
     contactDetails:
-        name: "Vivek Gohil"
-        email: "ghl_vivek@hotmail.com"
+        name: "Advait Gohil"
+        email: "advait@hotmail.com"
     onCallSupport:
         - 9876543210
         - 1234567890
